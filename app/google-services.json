@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "895936704907",
+    "firebase_url": "https://byechat-f8f9a.firebaseio.com",
+    "project_id": "byechat-f8f9a",
+    "storage_bucket": "byechat-f8f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895936704907:android:faff1fecbf7823d2",
+        "android_client_info": {
+          "package_name": "com.hamza2018hh.byechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895936704907-f8ouoeim0npmsg9avi1egr6bmig7mvvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hamza2018hh.byechat",
+            "certificate_hash": "5b56600ddd947cb9d80d66ee81cd155cb1d1e9b7"
+          }
+        },
+        {
+          "client_id": "895936704907-n63pqqqtos0sj1cbs876lm5g9ugi8mda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfbFZrtD7ZO_Us_POrVPBHHascGuYvV3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895936704907-n63pqqqtos0sj1cbs876lm5g9ugi8mda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
